@@ -1,10 +1,3 @@
-//
-//  FrameworkTitleView.swift
-//  Apple-Frameworks
-//
-//  Created by Sean Allen on 10/31/20.
-//
-
 import SwiftUI
 
 struct FrameworkTitleView: View {

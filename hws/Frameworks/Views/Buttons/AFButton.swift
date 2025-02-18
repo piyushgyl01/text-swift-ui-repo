@@ -1,10 +1,4 @@
-//
-//  AFButton.swift
-//  Apple-Frameworks
-//
-//  Created by Sean Allen on 10/30/20.
-//
-
+ 
 import SwiftUI
 
 struct AFButton: View {

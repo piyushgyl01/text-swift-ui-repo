@@ -1,10 +1,3 @@
-//
-//  Framework.swift
-//  Apple-Frameworks
-//
-//  Created by Sean Allen on 10/30/20.
-//
-
 import Foundation
 
 struct Framework: Hashable, Identifiable {
